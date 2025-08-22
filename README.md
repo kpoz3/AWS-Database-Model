@@ -1,1 +1,2 @@
-Created an Employee Tracking and Reporting System with AWS, plugging my database into SQL.
+This database will be relevant for companies who need to be consistent with lots of information for their employees. While using this database, companies can track employees with the ability of accessing their personal information, time, departments, payroll, and leave requests. With reporting, companies can report the employee’s performances and projects. This database will store all the information needed for all employees in the company with clear and concise navigations.
+
